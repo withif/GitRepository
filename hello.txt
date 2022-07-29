@@ -2,6 +2,5 @@ hello world 1111111111111
 hello Git
 this is a master test
 this is a branch test
-zoubobo
-yangming
-lvchenglin
+nice to meet you 
+hear is me
